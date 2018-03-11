@@ -1,0 +1,108 @@
+<Airport>
+	<Name>Test Airport</Name>
+	<Runway>
+		<Runway1>
+			<ID>Test 2</ID>
+			<Remarks>0.0</Remarks>
+			<Heading>2</Heading>
+			<Character>R</Character>
+			<Length>2200.0</Length>
+			<Width>250.0</Width>
+			<TORA>2050.0</TORA>
+			<TODA>2050.0</TODA>
+			<ASDA>2050.0</ASDA>
+			<LDA>2000.0</LDA>
+			<ThreshDisp>0.0</ThreshDisp>
+			<Stopway>60.0</Stopway>
+			<ClearwayW>100.0</ClearwayW>
+			<ClearwayL>0.0</ClearwayL>
+	<Obstacle>
+		<Identifier>Test 2</Identifier>
+		<RunwayPosition>Test Obstacle 2</RunwayPosition>
+		<Width>33.0</Width>
+		<Depth>10.0</Depth>
+		<Height>40.0</Height>
+		<DFT>50.0</DFT>
+		<DTC>50.0</DTC>
+	</Obstacle>
+		</Runway1>
+		<Runway2>
+			<ID>Test 4</ID>
+			<Remarks>20.0</Remarks>
+			<Heading>4</Heading>
+			<Character>R</Character>
+			<Length>4000.0</Length>
+			<Width>100.0</Width>
+			<TORA>3660.0</TORA>
+			<TODA>3660.0</TODA>
+			<ASDA>3660.0</ASDA>
+			<LDA>3200.0</LDA>
+			<ThreshDisp>20.0</ThreshDisp>
+			<Stopway>60.0</Stopway>
+			<ClearwayW>100.0</ClearwayW>
+			<ClearwayL>40.0</ClearwayL>
+	<Obstacle>
+		<Identifier>Test 4</Identifier>
+		<RunwayPosition>Test Obstacle 4</RunwayPosition>
+		<Width>25.0</Width>
+		<Depth>32.0</Depth>
+		<Height>60.0</Height>
+		<DFT>25.0</DFT>
+		<DTC>25.0</DTC>
+	</Obstacle>
+		</Runway2>
+	</Runway>
+	<Runway>
+		<Runway1>
+			<ID>Test 1</ID>
+			<Remarks>50.0</Remarks>
+			<Heading>1</Heading>
+			<Character>L</Character>
+			<Length>2000.0</Length>
+			<Width>500.0</Width>
+			<TORA>1900.0</TORA>
+			<TODA>1900.0</TODA>
+			<ASDA>1900.0</ASDA>
+			<LDA>1800.0</LDA>
+			<ThreshDisp>50.0</ThreshDisp>
+			<Stopway>40.0</Stopway>
+			<ClearwayW>100.0</ClearwayW>
+			<ClearwayL>50.0</ClearwayL>
+	<Obstacle>
+		<Identifier>Test 1</Identifier>
+		<RunwayPosition>Test Obstacle 1</RunwayPosition>
+		<Width>30.0</Width>
+		<Depth>15.0</Depth>
+		<Height>50.0</Height>
+		<DFT>0.0</DFT>
+		<DTC>0.0</DTC>
+	</Obstacle>
+		</Runway1>
+		<Runway2>
+			<ID>Test 3</ID>
+			<Remarks>50.0</Remarks>
+			<Heading>3</Heading>
+			<Character>L</Character>
+			<Length>3400.0</Length>
+			<Width>1000.0</Width>
+			<TORA>3060.0</TORA>
+			<TODA>3060.0</TODA>
+			<ASDA>3060.0</ASDA>
+			<LDA>3000.0</LDA>
+			<ThreshDisp>50.0</ThreshDisp>
+			<Stopway>60.0</Stopway>
+			<ClearwayW>90.0</ClearwayW>
+			<ClearwayL>50.0</ClearwayL>
+	<Obstacle>
+		<Identifier>Test 3</Identifier>
+		<RunwayPosition>Test Obstacle 3</RunwayPosition>
+		<Width>40.0</Width>
+		<Depth>60.0</Depth>
+		<Height>30.0</Height>
+		<DFT>4.0</DFT>
+		<DTC>4.0</DTC>
+	</Obstacle>
+		</Runway2>
+	</Runway>
+</Airport>
+

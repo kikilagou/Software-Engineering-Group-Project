@@ -1,0 +1,71 @@
+===User Manual===
+
+--Menu Help--
+
+1) Selecting an airport.
+	When trying to set an Airport for the Runway Redeclaration Tool, you can select predefined airports from the drop down menu,
+	or alternatively define a new airport to add.
+
+	To add a new airport to the drop down list of options, simply type the name of
+	the airport into the text-box and click "Add New Airport" button. The new airport you add will automatically be selected.
+
+	To remove airports from the list of options, simply select the airport you wish to remove and click the "Remove Airport" button.
+
+2) Selecting a Runway.
+	You must specify a runway in order for the Runway Redeclaration Tool to display a view. Simply click the "Add New Runway" button,
+	this will present you with a new window where you can specify the details of the runway, please refer to the section below labelled
+	'Runway Help'. Simply select a runway and click "Ok", in the Menu window.
+	This will now take you to the main tool, where you will be able to see and modify your selected runway, calculations based around
+	the runway and original and recalcutated values.
+
+--Runway Settings Help--
+
+1)Specifying a runway.
+	Here there will be two columns of text-fields, these correspond to the two directions a runway can have. Please fill out these
+	fields with the values you wish your runway to have.
+
+	To finish, click "ADD", this will add your runway to the drop down list of runways in the
+	main Menu.
+
+--Runway-Redeclaration-Tool Help--
+
+1) View section.
+
+	Here the ruwnay will be displayed for the user to see. There will be a key in the controls panel which indicates what each colour used
+	indicates.
+
+	The directionality of the runway will  be shown by two thick arrows at the top left and bottom right hand corners. These will be labelled
+	with the direction.
+
+	The values specified such as the TORA, TODA, ASDA & LDA will be displayed in the form of two sets of arrows. These will refresh based on the
+	re-calculated values.
+	The Displaced Threshold will only update if the LDA exists.
+
+2) Controls Panel Section
+	a) Key
+		Here a key of the colours used will be diplayed. This will indicated what each coloured section of the view means
+	b) Controls
+		Here the available buttons and controls will reside. There will be options to take you back to the main menu, to access the help document;
+		to change your view and also add obstacles.
+		There will be a button to add a new obstacle in this section, please refer to the Obstacle Settings section below for more information.
+		The calculate button will update the values for the recalculated section and the calculations panel.
+	c)Values Display
+		Here there will be two panels for each direction of the runway, that will display the 'Original' and the 'Re-calcuated' values each direction.
+		(Values will be recalculated in the even of an obstacle being added to the runway).
+		This section cannot be edited and is simply meant to display the values.
+
+3)Calculations Display
+	This section will display the simple calculations for the runway, it will only up-date if an obstacle is added to the runway.
+	To see the calculations breakdown, simply press the "See Calculation Breakdown" button.
+
+--Obstacle Settings--
+
+1) Specifying a custom obstacle
+	Simply input the values for the height, width, depth and a short description for the obstacle.
+	You may also need to input values for the centre-line distance - this values refers to the distance from the dotted line in the middle of the runway
+	(which denotes the centre line for the runway)
+
+2) Selecting a predefined obstacle
+	You have the option to select from a list of predefined obstacles, which are based of the most common cases of runway obstacles.
+
+To add the obstacle, press the button "Ok" and the obstacle will appear as a red item on the runway.

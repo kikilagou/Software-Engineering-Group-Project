@@ -1,0 +1,10 @@
+<Obstacle>
+	<Identifier>Test</Identifier>
+	<Description>Test Obstacle</Description>
+	<Width>11.0</Width>
+	<Depth>12.0</Depth>
+	<Height>10.0</Height>
+		<DFT>0.0</DFT>
+		<DTC>0.0</DTC>
+</Obstacle>
+

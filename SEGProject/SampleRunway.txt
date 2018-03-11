@@ -1,0 +1,19 @@
+<Runway>
+<Runway1>
+	<ID>Test</ID>
+	<Heading>9</Heading>
+	<Character>L</Character>
+	<TORA>1000.0</TORA>
+	<TODA>1001.0</TODA>
+	<ASDA>999.0</ASDA>
+	<LDA>998.0</LDA>
+	<Remarks>Test Runway</Remarks>
+			<ThreshDisp>10.0</ThreshDisp>
+	<Stopway>50.0</Stopway>
+	<ClearwayW>50.0</ClearwayW>
+	<ClearwayL>100.0</ClearwayL>
+	<Length>1000.0</Length>
+	<Width>10.0</Width>
+</Runway1>
+</Runway>
+

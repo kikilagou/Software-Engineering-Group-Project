@@ -1,0 +1,9 @@
+<Obstacle>
+	<Identifier>Boeing 737NG</Identifier>
+	<Description>Boeing 737NG Obstacle</Description>
+	<Width>34.32</Width>
+	<Depth>40.68</Depth>
+	<Height>12.6</Height>
+		<DFT>0.0</DFT>
+		<DTC>0.0</DTC>
+</Obstacle>

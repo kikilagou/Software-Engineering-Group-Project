@@ -1,0 +1,9 @@
+<Obstacle>
+	<Identifier>Boeing 777-300ER</Identifier>
+	<Description>Boeing 777-300ER Obstacle</Description>
+	<Width>64.8</Width>
+	<Depth>73.9</Depth>
+	<Height>18.6</Height>
+		<DFT>0.0</DFT>
+		<DTC>0.0</DTC>
+</Obstacle>

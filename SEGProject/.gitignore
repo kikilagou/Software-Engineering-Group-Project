@@ -1,0 +1,15 @@
+*.class
+*.iml
+*.idea
+*.xml
+<<<<<<< HEAD
+/.project
+=======
+/.classpath
+/.project
+/bin/
+>>>>>>> origin/runwayView
+PartialScreenshot.jpg
+*.jpg
+src/View/ValueDisplays.java
+src/View/Controls.java

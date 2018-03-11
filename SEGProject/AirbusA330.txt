@@ -1,0 +1,9 @@
+<Obstacle>
+	<Identifier>Airbus A330</Identifier>
+	<Description>Airbus A330 Obstacle</Description>
+	<Width>60.3</Width>
+	<Depth>63.66</Depth>
+	<Height>16.79</Height>
+		<DFT>0.0</DFT>
+		<DTC>0.0</DTC>
+</Obstacle>
